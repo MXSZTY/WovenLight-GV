@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== 图标背景色 ===== -->
+    <color name="ic_launcher_background">#006B5E</color>
+    
+    <!-- ===== Material 3 主色调（柔和蓝色）===== -->
+    <color name="m3_primary">#4F46E5</color>
+    <color name="m3_on_primary">#FFFFFF</color>
+    <color name="m3_primary_container">#EEF2FF</color>
+    <color name="m3_on_primary_container">#1E1B4B</color>
+    
+    <!-- ===== Material 3 次要色调（柔和紫色）===== -->
+    <color name="m3_secondary">#6366F1</color>
+    <color name="m3_on_secondary">#FFFFFF</color>
+    <color name="m3_secondary_container">#E0E7FF</color>
+    <color name="m3_on_secondary_container">#1E293B</color>
+    
+    <!-- ===== Material 3 强调色调（柔和青色）===== -->
+    <color name="m3_tertiary">#06B6D4</color>
+    <color name="m3_on_tertiary">#FFFFFF</color>
+    <color name="m3_tertiary_container">#CFFAFE</color>
+    <color name="m3_on_tertiary_container">#083344</color>
+    
+    <!-- ===== Material 3 错误色调 ===== -->
+    <color name="m3_error">#EF4444</color>
+    <color name="m3_on_error">#FFFFFF</color>
+    <color name="m3_error_container">#FEE2E2</color>
+    <color name="m3_on_error_container">#450A0A</color>
+    
+    <!-- ===== Material 3 背景色（浅色模式）===== -->
+    <color name="m3_background">#F8FAFC</color>
+    <color name="m3_on_background">#1E293B</color>
+    <color name="m3_surface">#FFFFFF</color>
+    <color name="m3_on_surface">#1E293B</color>
+    <color name="m3_surface_variant">#E2E8F0</color>
+    <color name="m3_on_surface_variant">#64748B</color>
+    
+    <!-- ===== Material 3 轮廓色 ===== -->
+    <color name="m3_outline">#94A3B8</color>
+    <color name="m3_outline_variant">#CBD5E1</color>
+</resources>

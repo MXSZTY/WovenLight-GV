@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WovenLight</string>
+    <string name="title_activity_main">WovenLight</string>
+    <string name="switch_ua">快捷切换</string>
+    <string name="refresh">刷新</string>
+    <string name="set_gps">设置</string>
+    <string name="toast_made_by">MXSZTY制作</string>
+    <string name="location_permission_denied">定位权限被拒绝</string>
+    <string name="gps_dialog_title">设置GPS坐标</string>
+    <string name="gps_latitude_hint">请输入纬度 (例如：39.9042)</string>
+    <string name="gps_longitude_hint">请输入经度 (例如：116.4074)</string>
+    <string name="gps_confirm">确定</string>
+    <string name="gps_cancel">取消</string>
+    <string name="gps_invalid_input">请输入有效的经纬度</string>
+    <string name="gps_current_coords">当前GPS坐标：%1$.4f, %2$.4f</string>
+</resources>

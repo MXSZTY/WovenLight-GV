@@ -1,0 +1,111 @@
+# Built application files
+*.apk
+*.ap_
+*.aar
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Local configuration files
+local.properties
+.properties
+
+# Proguard files
+*.pro
+
+# Log files
+*.log
+
+# Android Studio files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NDK
+obj/
+
+# Signing files
+*.jks
+*.keystore
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
+fabric.properties
+
+# Google Services
+google-services.json
+
+# Firebase
+google-services.json
+
+# Jetifier
+jetifier/
+
+# AndroidX
+androidx/
+
+# Gradle cache
+.gradle/caches/
+.gradle/wrapper/
+
+# Build outputs
+app/build/outputs/
+
+# Mapping files
+app/build/outputs/mapping/
+
+# Reports
+app/build/reports/
+
+# lint
+app/build/outputs/lint-results*.html
+app/build/outputs/lint-results*.xml
+
+# Profiler
+.profiler/
+
+# Screenshots
+screenshots/
+
+# Test reports
+**/build/test-results/
+
+# Coverage
+**/build/jacoco/
+
+# ktlint
+.ktlint/
+
+# Maven local
+.m2/
+
+# npm
+node_modules/
+
+# yarn
+.yarn/
+
+# pnpm
+pnpm-lock.yaml
